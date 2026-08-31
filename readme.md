@@ -1,4 +1,4 @@
-## Hey 👋, I'm Mohamed Elmengah!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=Hey+%F0%9F%91%8B%2C+I'm+Mohamed+Elmengah!)](https://git.io/typing-svg)
 
 I'm a Computer Science student focused on **Machine Learning and Artificial Intelligence 🤖**.
 I enjoy learning how data, algorithms, and models can be used to solve real-world problems.
