@@ -1,14 +1,5 @@
 ## Hey 👋, I'm Mohamed Elmengah!
 
-<a href="https://www.linkedin.com/in/mohamedelmengah" target="_blank">
-  <img align="left" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="18px"/>
-</a>
-<a href="YOUR_TWITTER_LINK" target="_blank">
-  <img align="left" alt="twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="18px"/>
-</a>
-
-<br/>
-
 I'm a Computer Science student focused on **Machine Learning and Artificial Intelligence 🤖**.
 I enjoy learning how data, algorithms, and models can be used to solve real-world problems.
 Currently, I'm building my skills in **Python, Data Analysis, Machine Learning, and ML deployment**.
@@ -17,14 +8,14 @@ Currently, I'm building my skills in **Python, Data Analysis, Machine Learning, 
 
 ### 🧐 More About Me:
 
-* 🎓   I'm currently studying **Computer Science**
-* 🤖   I'm focusing on **Machine Learning and Artificial Intelligence**
-* 🐍   I'm working with **Python** and its data science ecosystem
-* 📊   I'm learning **Data Analysis, Data Preprocessing, and Machine Learning**
-* 🧠   I'm interested in building and understanding **Machine Learning models**
-* 🚀   I'm learning how to **deploy ML models and applications**
-* 💻   Most of my projects are available here on **GitHub**
-* 📚   I'm continuously learning and improving my technical skills
+* 🎓 &nbsp; I'm currently studying **Computer Science**
+* 🤖 &nbsp; I'm focusing on **Machine Learning and Artificial Intelligence**
+* 🐍 &nbsp; I'm working with **Python** and its data science ecosystem
+* 📊 &nbsp; I'm learning **Data Analysis, Data Preprocessing, and Machine Learning**
+* 🧠 &nbsp; I'm interested in building and understanding **Machine Learning models**
+* 🚀 &nbsp; I'm learning how to **deploy ML models and applications**
+* 💻 &nbsp; Most of my projects are available here on **GitHub**
+* 📚 &nbsp; I'm continuously learning and improving my technical skills
 
 <br/>
 
@@ -67,13 +58,18 @@ Currently, I'm building my skills in **Python, Data Analysis, Machine Learning, 
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedElmengah\&show_icons=true\&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedElmengah&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElmengah\&layout=compact\&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElmengah&layout=compact&theme=transparent)
 
 <br/>
 
 ### 📫 Connect With Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/mohamedelmengah)
-* 🐦 [Twitter](YOUR_TWITTER_LINK)
+<a href="https://www.linkedin.com/in/mohamedelmengah" target="_blank">
+  <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin" height="30px"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/MohamedElmengah" target="_blank">
+  <img alt="X" src="https://cdn.simpleicons.org/x" height="30px"/>
+</a>
