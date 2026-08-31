@@ -67,9 +67,9 @@ Currently, I'm building my skills in **Python, Data Analysis, Machine Learning, 
 ### 📫 Connect With Me
 
 <a href="https://www.linkedin.com/in/mohamedelmengah" target="_blank">
-  <img alt="LinkedIn" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg"/>
+  <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" height="30px"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://x.com/MohamedElmengah" target="_blank">
-  <img alt="X" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/x.svg"/>
+  <img alt="X" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/x.svg" height="30px"/>
 </a>
