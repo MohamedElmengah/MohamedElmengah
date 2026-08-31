@@ -22,37 +22,51 @@ Currently, I'm building my skills in **Python, Data Analysis, Machine Learning, 
 ### 🔨 Languages and Tools:
 
 <a href="https://www.python.org/" target="_blank">
-  <img align="left" alt="Python" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="left" alt="Python" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </a>
 
 <a href="https://numpy.org/" target="_blank">
-  <img align="left" alt="NumPy" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="left" alt="NumPy" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank">
-  <img align="left" alt="Pandas" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="left" alt="Pandas" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+</a>
+
+<a href="https://matplotlib.org/" target="_blank">
+  <img align="left" alt="Matplotlib" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
 </a>
 
 <a href="https://scikit-learn.org/" target="_blank">
-  <img align="left" alt="Scikit-learn" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
+  <img align="left" alt="Scikit-learn" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
 </a>
 
-<a href="https://git-scm.com/" target="_blank">
-  <img align="left" alt="Git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<a href="https://isocpp.org/" target="_blank">
+  <img align="left" alt="C++" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 </a>
 
-<a href="https://github.com/" target="_blank">
-  <img align="left" alt="GitHub" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+  <img align="left" alt="C#" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
 </a>
 
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img align="left" alt="FastAPI" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img align="left" alt="HTML" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 </a>
 
-<a href="https://azure.microsoft.com/" target="_blank">
-  <img align="left" alt="Azure" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img align="left" alt="CSS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img align="left" alt="JavaScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank">
+  <img align="left" alt="AWS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+</a>
+
+<br/>
+<br/>
 <br/>
 <br/>
 
