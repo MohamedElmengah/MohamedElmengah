@@ -1,22 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=Hey+%F0%9F%91%8B%2C+I'm+Mohamed+Elmengah!)](https://git.io/typing-svg)
 
-I'm a Computer Science student focused on **Machine Learning and Artificial Intelligence 🤖**.
-I enjoy learning how data, algorithms, and models can be used to solve real-world problems.
-Currently, I'm building my skills in **Python, Data Analysis, Machine Learning, and ML deployment**.
+<br>
+I'm a Computer Science student interested in Machine Learning and AI 🤖.
 
-<br/>
+Currently working with Python, Data Analysis, and Machine Learning, while learning more about ML models and deployment.
 
-### 🧐 More About Me:
+### 🧐 About Me
 
-* 🎓 &nbsp; I'm currently studying **Computer Science**
-* 🤖 &nbsp; I'm focusing on **Machine Learning and Artificial Intelligence**
-* 🐍 &nbsp; I'm working with **Python** and its data science ecosystem
-* 📊 &nbsp; I'm learning **Data Analysis, Data Preprocessing, and Machine Learning**
-* 🧠 &nbsp; I'm interested in building and understanding **Machine Learning models**
-* 🚀 &nbsp; I'm learning how to **deploy ML models and applications**
-* 💻 &nbsp; Most of my projects are available here on **GitHub**
-* 📚 &nbsp; I'm continuously learning and improving my technical skills
-
+🎓 Computer Science student  
+🤖 Machine Learning & AI  
+🐍 Python & Data Science  
+📊 Data Analysis & Preprocessing  
+🚀 ML Deployment  
+💻 Building projects and learning along the way
 <br/>
 
 ### 🔨 Languages and Tools:
