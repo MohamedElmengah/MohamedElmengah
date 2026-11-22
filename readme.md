@@ -1,79 +1,66 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=Hey+%F0%9F%91%8B%2C+I'm+Mohamed+Elmengah!)](https://git.io/typing-svg)
-
-<br>
-I'm a Computer Science student interested in Machine Learning and AI 🤖.
-
-Currently working with Python, Data Analysis, and Machine Learning, while learning more about ML models and deployment.
-
-### 🧐 About Me
-
-🎓 Computer Science student  
-🤖 Machine Learning & AI  
-🐍 Python & Data Science  
-📊 Data Analysis & Preprocessing  
-🚀 ML Deployment  
-💻 Building projects and learning along the way
-<br/>
-
-### 🔨 Languages and Tools:
-
-<a href="https://www.python.org/" target="_blank">
-  <img align="left" alt="Python" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-  <img align="left" alt="NumPy" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img align="left" alt="Pandas" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
-</a>
-
-<a href="https://matplotlib.org/" target="_blank">
-  <img align="left" alt="Matplotlib" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-  <img align="left" alt="Scikit-learn" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
-</a>
-
-<a href="https://isocpp.org/" target="_blank">
-  <img align="left" alt="C++" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-</a>
-
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-  <img align="left" alt="C#" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img align="left" alt="HTML" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img align="left" alt="CSS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img align="left" alt="JavaScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank">
-  <img align="left" alt="AWS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-</a>
+<div align="center">
+  <img src="./banner.svg" alt="Adam's Late-Night AI Workspace" width="100%" />
+</div>
 
 <br/>
-<br/>
-<br/>
-<br/>
 
+### 🧠 About Me
+Computer Science Senior specializing in **Agentic AI Systems**, **RAG Architectures**, and **AI Security**. I build reliable, cloud-integrated LLM workflows and evaluate autonomous agents against adversarial attacks.
 
+- 🔭 **Currently building:** Multi-Agent Cybersecurity Analysis & RAG Prompt-Injection Benchmarking (Graduation Project)
+- 🌱 **Developing:** Intelligent RAG backend for **Dawem (داوم)** — a collaborative habit & study-planning platform
+- 🏆 **Certified:** AWS Certified Machine Learning Engineer – Associate (`MLA-C02`) & Microsoft Fabric Data Engineer (`DP-700`)
+- ⚡ **Vibe:** Late-night builds, autonomous agents, and a cat supervising the code.
+
+---
+
+### 🛠️ Featured Engineering Work
+
+| Project | Engineering Focus & Tech Stack |
+| :--- | :--- |
+| **🛡️ LLM & RAG Security Benchmark** | Evaluating prompt injection and RAG poisoning vulnerabilities using **Microsoft BIPIA**, **InjectAgent**, and **NVIDIA** evaluation tools. |
+| **🤖 Multi-Agent Security Orchestrator** | Orchestrated multi-agent threat analysis pipeline built with **LangGraph**, **LangChain**, and **Groq (Llama 3.3 70B)**. |
+| **📚 Dawem (داوم) AI Engine** | RAG-based task generation and personalized study planning backend integrated with AWS cloud infrastructure. |
+| **🧩 AI Browser & Bot Tooling** | Multi-tab Chrome Extension (**Gemini & Groq APIs**) and multimodal Python Telegram Bot supporting voice, vision, and automated workflows. |
+
+---
+
+### 🔨 Languages & Tools
+
+**AI, Agents & Data Science**
+![Python](https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=ff9e64)
+![LangChain](https://img.shields.io/badge/LangChain-1a1b26?style=for-the-badge&logo=chainlink&logoColor=7aa2f7)
+![LangGraph](https://img.shields.io/badge/LangGraph-1a1b26?style=for-the-badge&logo=graphql&logoColor=bb9af7)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1a1b26?style=for-the-badge&logo=scikitlearn&logoColor=ff9e64)
+![Pandas](https://img.shields.io/badge/Pandas-1a1b26?style=for-the-badge&logo=pandas&logoColor=7dcfff)
+![NumPy](https://img.shields.io/badge/NumPy-1a1b26?style=for-the-badge&logo=numpy&logoColor=7aa2f7)
+
+**Cloud, Systems & Web**
+![AWS](https://img.shields.io/badge/AWS-1a1b26?style=for-the-badge&logo=amazonwebservices&logoColor=ff9e64)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-1a1b26?style=for-the-badge&logo=microsoft&logoColor=7dcfff)
+![C++](https://img.shields.io/badge/C++-1a1b26?style=for-the-badge&logo=cplusplus&logoColor=7aa2f7)
+![C#](https://img.shields.io/badge/C%23-1a1b26?style=for-the-badge&logo=csharp&logoColor=bb9af7)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=e0af68)
+![Git](https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=f7768e)
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedElmengah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=ff9e64&icon_color=7aa2f7" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElmengah&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=ff9e64" />
+</div>
+
+<br/>
 
 ### 📫 Connect With Me
 
-<a href="https://www.linkedin.com/in/mohamedelmengah" target="_blank">
-  <img alt="LinkedIn" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://x.com/MohamedElmengah" target="_blank">
-  <img alt="X" width="30" src="https://cdn.simpleicons.org/x"/>
-</a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" />
+  </a>
+  <a href="https://x.com/YOUR_X_USERNAME">
+    <img src="https://img.shields.io/badge/X_(Twitter)-1a1b26?style=for-the-badge&logo=x&logoColor=f8f9fa" />
+  </a>
+</div>
