@@ -5,7 +5,7 @@
 <br/>
 
 ### 🧠 About Me
-Computer Science Senior specializing in **Agentic AI Systems**, **RAG Architectures**, and **AI Security**. I build reliable, cloud-integrated LLM workflows and evaluate autonomous agents against adversarial attacks.
+Computer Science Student specializing in **Agentic AI Systems**, **RAG Architectures**, and **AI Security**. I build reliable, cloud-integrated LLM workflows and evaluate autonomous agents against adversarial attacks.
 
 - 🔭 **Currently building:** Multi-Agent Cybersecurity Analysis System (Graduation Project)
 - 🌱 **Developing:** Intelligent RAG backend for **Dawem** — a collaborative habit & study-planning platform
