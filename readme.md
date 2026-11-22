@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="Adam's Late-Night AI Workspace" width="100%" />
+  <img src="./banner.svg" alt="Mohamed Elmengah's Late-Night AI Workspace" width="100%" />
 </div>
 
 <br/>
@@ -26,21 +26,25 @@ Computer Science Senior specializing in **Agentic AI Systems**, **RAG Architectu
 
 ### 🔨 Languages & Tools
 
-**AI, Agents & Data Science**
-![Python](https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=ff9e64)
-![LangChain](https://img.shields.io/badge/LangChain-1a1b26?style=for-the-badge&logo=chainlink&logoColor=7aa2f7)
-![LangGraph](https://img.shields.io/badge/LangGraph-1a1b26?style=for-the-badge&logo=graphql&logoColor=bb9af7)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1a1b26?style=for-the-badge&logo=scikitlearn&logoColor=ff9e64)
-![Pandas](https://img.shields.io/badge/Pandas-1a1b26?style=for-the-badge&logo=pandas&logoColor=7dcfff)
-![NumPy](https://img.shields.io/badge/NumPy-1a1b26?style=for-the-badge&logo=numpy&logoColor=7aa2f7)
+#### AI, Agents & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=ff9e64" />
+  <img src="https://img.shields.io/badge/LangChain-1a1b26?style=for-the-badge&logo=chainlink&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/LangGraph-1a1b26?style=for-the-badge&logo=graphql&logoColor=bb9af7" />
+  <img src="https://img.shields.io/badge/scikit--learn-1a1b26?style=for-the-badge&logo=scikitlearn&logoColor=ff9e64" />
+  <img src="https://img.shields.io/badge/Pandas-1a1b26?style=for-the-badge&logo=pandas&logoColor=7dcfff" />
+  <img src="https://img.shields.io/badge/NumPy-1a1b26?style=for-the-badge&logo=numpy&logoColor=7aa2f7" />
+</p>
 
-**Cloud, Systems & Web**
-![AWS](https://img.shields.io/badge/AWS-1a1b26?style=for-the-badge&logo=amazonwebservices&logoColor=ff9e64)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-1a1b26?style=for-the-badge&logo=microsoft&logoColor=7dcfff)
-![C++](https://img.shields.io/badge/C++-1a1b26?style=for-the-badge&logo=cplusplus&logoColor=7aa2f7)
-![C#](https://img.shields.io/badge/C%23-1a1b26?style=for-the-badge&logo=csharp&logoColor=bb9af7)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=e0af68)
-![Git](https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=f7768e)
+#### Cloud, Systems & Web
+<p>
+  <img src="https://img.shields.io/badge/AWS-1a1b26?style=for-the-badge&logo=amazonwebservices&logoColor=ff9e64" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-1a1b26?style=for-the-badge&logo=microsoft&logoColor=7dcfff" />
+  <img src="https://img.shields.io/badge/C++-1a1b26?style=for-the-badge&logo=cplusplus&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/C%23-1a1b26?style=for-the-badge&logo=csharp&logoColor=bb9af7" />
+  <img src="https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=e0af68" />
+  <img src="https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=f7768e" />
+</p>
 
 ---
 
