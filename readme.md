@@ -7,8 +7,8 @@
 ### 🧠 About Me
 Computer Science Senior specializing in **Agentic AI Systems**, **RAG Architectures**, and **AI Security**. I build reliable, cloud-integrated LLM workflows and evaluate autonomous agents against adversarial attacks.
 
-- 🔭 **Currently building:** Multi-Agent Cybersecurity Analysis & RAG Prompt-Injection Benchmarking (Graduation Project)
-- 🌱 **Developing:** Intelligent RAG backend for **Dawem (داوم)** — a collaborative habit & study-planning platform
+- 🔭 **Currently building:** Multi-Agent Cybersecurity Analysis System (Graduation Project)
+- 🌱 **Developing:** Intelligent RAG backend for **Dawem** — a collaborative habit & study-planning platform
 - 🏆 **Certified:** AWS Certified Machine Learning Engineer – Associate (`MLA-C02`) & Microsoft Fabric Data Engineer (`DP-700`)
 - ⚡ **Vibe:** Late-night builds, autonomous agents, and a cat supervising the code.
 
@@ -18,9 +18,8 @@ Computer Science Senior specializing in **Agentic AI Systems**, **RAG Architectu
 
 | Project | Engineering Focus & Tech Stack |
 | :--- | :--- |
-| **🛡️ LLM & RAG Security Benchmark** | Evaluating prompt injection and RAG poisoning vulnerabilities using **Microsoft BIPIA**, **InjectAgent**, and **NVIDIA** evaluation tools. |
 | **🤖 Multi-Agent Security Orchestrator** | Orchestrated multi-agent threat analysis pipeline built with **LangGraph**, **LangChain**, and **Groq (Llama 3.3 70B)**. |
-| **📚 Dawem (داوم) AI Engine** | RAG-based task generation and personalized study planning backend integrated with AWS cloud infrastructure. |
+| **📚 Dawem AI Engine** | RAG-based task generation and personalized study planning backend integrated with AWS cloud infrastructure. |
 | **🧩 AI Browser & Bot Tooling** | Multi-tab Chrome Extension (**Gemini & Groq APIs**) and multimodal Python Telegram Bot supporting voice, vision, and automated workflows. |
 
 ---
@@ -57,10 +56,10 @@ Computer Science Senior specializing in **Agentic AI Systems**, **RAG Architectu
 ### 📫 Connect With Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/mohamedelmengah">
     <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" />
   </a>
-  <a href="https://x.com/YOUR_X_USERNAME">
+  <a href="https://x.com/mohamedelmengah">
     <img src="https://img.shields.io/badge/X_(Twitter)-1a1b26?style=for-the-badge&logo=x&logoColor=f8f9fa" />
   </a>
 </div>
